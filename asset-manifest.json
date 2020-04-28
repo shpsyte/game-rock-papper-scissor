@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/game-rock-papper-scissor/static/css/main.5b4aa913.chunk.css",
+    "main.js": "/game-rock-papper-scissor/static/js/main.527afa83.chunk.js",
+    "main.js.map": "/game-rock-papper-scissor/static/js/main.527afa83.chunk.js.map",
+    "runtime-main.js": "/game-rock-papper-scissor/static/js/runtime-main.08ffa386.js",
+    "runtime-main.js.map": "/game-rock-papper-scissor/static/js/runtime-main.08ffa386.js.map",
+    "static/js/2.1e8d6081.chunk.js": "/game-rock-papper-scissor/static/js/2.1e8d6081.chunk.js",
+    "static/js/2.1e8d6081.chunk.js.map": "/game-rock-papper-scissor/static/js/2.1e8d6081.chunk.js.map",
+    "index.html": "/game-rock-papper-scissor/index.html",
+    "precache-manifest.e6b96fc8c81d3fd0a6904e413eb40c8e.js": "/game-rock-papper-scissor/precache-manifest.e6b96fc8c81d3fd0a6904e413eb40c8e.js",
+    "service-worker.js": "/game-rock-papper-scissor/service-worker.js",
+    "static/css/main.5b4aa913.chunk.css.map": "/game-rock-papper-scissor/static/css/main.5b4aa913.chunk.css.map",
+    "static/js/2.1e8d6081.chunk.js.LICENSE.txt": "/game-rock-papper-scissor/static/js/2.1e8d6081.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/game-rock-papper-scissor/static/media/back.d0402957.jpg",
+    "static/media/papper.png": "/game-rock-papper-scissor/static/media/papper.cbb9303f.png",
+    "static/media/scissors.png": "/game-rock-papper-scissor/static/media/scissors.4ab7ed75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08ffa386.js",
+    "static/js/2.1e8d6081.chunk.js",
+    "static/css/main.5b4aa913.chunk.css",
+    "static/js/main.527afa83.chunk.js"
+  ]
+}
